@@ -9,7 +9,6 @@ The program flows as follows :
 ##### 1. Training_hog_svm
   - Loading the VLFeat Library
   - SIFT Descriptor is called to generate the vocbulary.
-  - 
 
 ##### 2. SIFT Descriptor
   - It is used to make vocabulary for our training data using SIFT features.
